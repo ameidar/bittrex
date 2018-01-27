@@ -8,7 +8,7 @@ from email.mime.text import MIMEText
 
 #server = smtplib.SMTP('internal-mail-router.oraclecorp.com',25) #port 465 or 587
 
-api = Bittrex('6d0a3e7dbf11459db218928c8ea240c4', '69249e8eea454959b652e1822834432c')
+
 
 
 
